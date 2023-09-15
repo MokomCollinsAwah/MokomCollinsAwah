@@ -6,7 +6,7 @@
 * I am open to ideas 📖, projects 📚, startups, and the opportunity to create an impact in this present century.
 * Visit https://mokomcollinsawah.vercel.app to know more about me.
 # Languages and Tools
-# [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,git,mongodb,nextjs,nodejs,tailwind)](https://skillicons.dev)
+# [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,mysql,figma,git,mongodb,nextjs,nodejs,tailwind)](https://skillicons.dev)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokomcollinsawah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
