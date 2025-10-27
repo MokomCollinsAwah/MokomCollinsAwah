@@ -32,7 +32,7 @@ I’m passionate about building **practical, user-centered web applications** an
 - LinkedIn: [linkedin.com/in/mokomcollinsawah](https://www.linkedin.com/in/mokomcollinsawah)  
 - Twitter: [@mokomcollins](https://twitter.com/mokomcollins)  
 - YouTube: [AcademiEase Channel](https://youtube.com/@academiease)
-- Instagram: [instagram.com/mokomcollinsawah](https://instragram.com/mokomcollinsawah)
+- Instagram: [instagram.com/mokomcollinsawah](https://instagram.com/mokomcollinsawah/)
 
 ---
 
